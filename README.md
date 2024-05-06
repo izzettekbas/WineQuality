@@ -4,6 +4,6 @@
 Red Wine Quality Classification
 In this project, classification models were built by examining the "winequality-red" data set available on Kaggle.
 
-📌
+📌 8 models were identified and it was observed that the best model for this data set was Random Forest.
 
-📌
+📌 Random Forest modelinde daha iyi bir sonuç alabilmek için hiperparametre optimizasyonu yapıldı
