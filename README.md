@@ -6,4 +6,4 @@ In this project, classification models were built by examining the "winequality-
 
 📌 8 models were identified and it was observed that the best model for this data set was Random Forest.
 
-📌 Random Forest modelinde daha iyi bir sonuç alabilmek için hiperparametre optimizasyonu yapıldı
+📌 Hyperparameter optimization was performed to get a better result in the Random Forest model.
